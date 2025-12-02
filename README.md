@@ -7,7 +7,7 @@ Number of Observations: 398 cars
 Number of Variables: 9
 
 # Features
-Column	Description
+### Column	Description
 
 mpg	Miles per gallon (fuel efficiency)
 
